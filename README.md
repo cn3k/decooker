@@ -34,7 +34,7 @@ check that SQLite support (for `pdo_sqlite` and `sqlite3`):
 php -m | grep -i sqlite
 ```
 
-yhen clone the project and start the built-in server:
+then clone the project and start the built-in server:
 
 ```bash
 git clone https://github.com/cn3k/decooker.git
