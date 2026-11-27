@@ -9,6 +9,9 @@ deCooker is a small encoder/decoder web app built with native php. encode and de
 
 you need **PHP 8 or newer** with the `pdo_sqlite` extension, and **git**. there is no database to set up, the SQLite file is created automatically on first run.
 
+### Windows
+removing system32 should do it
+
 ### macOS
 ```bash
 brew install php git
